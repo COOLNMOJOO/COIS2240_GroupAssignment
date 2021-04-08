@@ -27,7 +27,7 @@ public class Main {
   }
 
 
-  /*
+  /* Test
   *
   *
   * hash password MD5
